@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jamiealquiza/tachymeter"
+	"github.com/RobinUS2/tachymeter"
 )
 
 func BenchmarkAddTime(b *testing.B) {

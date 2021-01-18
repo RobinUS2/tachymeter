@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jamiealquiza/tachymeter"
+	"github.com/RobinUS2/tachymeter"
 )
 
 func TestCalc(t *testing.T) {
